@@ -2,6 +2,16 @@
 
 Mobile-first dashboard for Air Compressor and IoT monitoring, now migrated to `React + Vite`.
 
+## Screenshots
+
+| Overview | Compressors | Sensors |
+|:---:|:---:|:---:|
+| ![Overview](screenshots/overview.png) | ![Compressors](screenshots/compressors.png) | ![Sensors](screenshots/sensors.png) |
+
+| Valves | Alarms |
+|:---:|:---:|
+| ![Valves](screenshots/valves.png) | ![Alarms](screenshots/alarms.png) |
+
 ## Stack
 
 - React 19
