@@ -4,13 +4,13 @@ Mobile-first dashboard for Air Compressor and IoT monitoring, now migrated to `R
 
 ## Screenshots
 
-| Overview | Compressors | Sensors |
-|:---:|:---:|:---:|
-| ![Overview](screenshots/overview.png) | ![Compressors](screenshots/compressors.png) | ![Sensors](screenshots/sensors.png) |
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+|:---:|:---:|:---:|:---:|
+| ![Screenshot 1](screenshots/Fostec-oee-1.png) | ![Screenshot 2](screenshots/Fostec-oee-2.png) | ![Screenshot 3](screenshots/Fostec-oee-3.png) | ![Screenshot 4](screenshots/Fostec-oee-4.png) |
 
-| Valves | Alarms |
-|:---:|:---:|
-| ![Valves](screenshots/valves.png) | ![Alarms](screenshots/alarms.png) |
+| Screenshot 5 | Screenshot 6 | Screenshot 7 | Screenshot 8 |
+|:---:|:---:|:---:|:---:|
+| ![Screenshot 5](screenshots/Fostec-oee-5.png) | ![Screenshot 6](screenshots/Fostec-oee-6.png) | ![Screenshot 7](screenshots/Fostec-oee-7.png) | ![Screenshot 8](screenshots/Fostec-oee-8.png) |
 
 ## Stack
 
