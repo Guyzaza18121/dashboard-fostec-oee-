@@ -1,0 +1,77 @@
+.summary-strip {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+  margin: 14px 0 18px;
+}
+
+.summary-card {
+  display: grid;
+  min-height: 58px;
+  align-content: center;
+  gap: 3px;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(29, 114, 224, 0.14);
+  border-radius: 10px;
+  backdrop-filter: blur(12px);
+}
+
+.summary-card-button {
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: transform 120ms ease, box-shadow 120ms ease, border-color 120ms ease;
+}
+
+.summary-card-button:hover,
+.summary-card-button:focus-visible {
+  border-color: rgba(29, 114, 224, 0.35);
+  box-shadow: 0 0 18px rgba(29, 114, 224, 0.12), 0 10px 24px rgba(15, 40, 80, 0.07);
+}
+
+.summary-card-button:active {
+  transform: scale(0.98);
+}
+
+.summary-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.summary-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.summary-card-value {
+  color: var(--text);
+  font-size: 0.92rem;
+  font-weight: 800;
+}
+
+.summary-sync-meta {
+  display: grid;
+  gap: 2px;
+}
+
+.summary-card-value-strong {
+  font-size: 1.2rem;
+  line-height: 1;
+}
+
+.summary-card-subvalue {
+  color: var(--muted);
+  font-size: 0.64rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.summary-card-label {
+  color: var(--muted);
+  font-size: 0.68rem;
+  font-weight: 600;
+}

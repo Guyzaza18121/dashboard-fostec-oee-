@@ -1,0 +1,21 @@
+{
+  "short_name": "FOSTEC IoT",
+  "name": "FOSTEC IoT Dashboard",
+  "description": "Mobile web dashboard for IoT air compressor monitoring",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eef4fb",
+  "theme_color": "#1d72e0",
+  "icons": [
+    {
+      "src": "/Logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/Logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
